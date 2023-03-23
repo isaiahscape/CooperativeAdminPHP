@@ -8,9 +8,6 @@
 ## Built With
 
 - JavaScript
-- Node
-- NPM
-- Webpack
 - HTML
 - CSS
 
@@ -26,3 +23,4 @@
 
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project.
+Work in progress ^^
