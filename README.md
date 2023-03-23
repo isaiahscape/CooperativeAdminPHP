@@ -16,7 +16,7 @@
 
 ## Author
 
-** Isaiah Pavia **
+**Isaiah Pavia**
 
 - [Profile](https://github.com/kreiorogit "Isaiah")
 - [Email](mailto:lqlp0011@gmail.com?subject=Hi "Hi!")
